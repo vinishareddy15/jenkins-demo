@@ -1,3 +1,3 @@
-git add .
-git commit -m "Testing webhook"
-git push
+# jenkins-demo
+
+This repository is used for Jenkins practice.
